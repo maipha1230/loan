@@ -18,7 +18,10 @@
 /.next/
 /out/
 
-/postgres_data/
+#postgres
+postgres_data/
+/postgres_data
+**/postgres_data
 # production
 /build
 
